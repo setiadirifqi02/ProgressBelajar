@@ -30,6 +30,6 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
-**04 Agustus 2022**
+**04 Agustus 2022**  
 Belajar Branches Git
 
